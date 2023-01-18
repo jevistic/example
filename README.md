@@ -1,1 +1,1 @@
-This is Example repo!
+This is my first and simple portfolio. It's just a try to create a good looking UI using html and CSS only.
